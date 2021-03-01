@@ -1,3 +1,14 @@
-p {
-    font-size: 400px;
+.main-container {
+    display: grid;
+    background-color: yellow;
+    grid-template-rows: 40vh 60vh;
+    height: 100vh;
+}
+
+.upper-container {
+    background-color: blue;
+}
+
+.lower-container {
+    background-color: red;
 }
