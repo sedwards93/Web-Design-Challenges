@@ -1,6 +1,6 @@
 # 1 - Add a grid for desktop
 
-This is my attempt at the CSS grid exercise set by Makers Academy. My attempt at recreating the grid layout is (here!)[https://css-grid-challenge.netlify.app/]
+This is my attempt at the CSS grid exercise set by Makers Academy. My attempt at recreating the grid layout is [here!](https://css-grid-challenge.netlify.app/)
 
 ![Task](./assets/exercise-1.png)
 
