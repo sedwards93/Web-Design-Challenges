@@ -1,7 +1,6 @@
 .main-container {
     display: grid;
-    background-color: yellow;
-    grid-template-rows: 40vh 60vh;
+    grid-template-rows: 380px 540px;
     height: 100vh;
     
 }
@@ -9,8 +8,8 @@
 .upper-container {
     display: grid;
     background-color: #DDDDDD;
-    grid-template-rows: 20px 1fr 2fr 4px;
-    grid-template-columns: 150px 1fr 1fr 150px;
+    grid-template-rows: 0px 60px 260px 0px;
+    grid-template-columns: 150px 470px 470px 150px;
     justify-content: center;
     grid-gap: 20px;
 }
@@ -42,8 +41,8 @@
 .lower-container {
     background-color: white;
     display: grid;
-    grid-template-rows: 5px 1fr 2fr 3fr 20px;
-    grid-template-columns: 150px 1fr 1fr 1fr 150px;
+    grid-template-rows: 5px 60px 120px 240px 20px;
+    grid-template-columns: 150px 308px 308px 308px 150px;
     justify-content: center;
     grid-gap: 20px;
 }
